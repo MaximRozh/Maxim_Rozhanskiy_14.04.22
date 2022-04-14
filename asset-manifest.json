@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maxim_Rozhanskiy_14.04.22/static/css/main.f14b4832.css",
+    "main.js": "/Maxim_Rozhanskiy_14.04.22/static/js/main.357523aa.js",
+    "index.html": "/Maxim_Rozhanskiy_14.04.22/index.html",
+    "main.f14b4832.css.map": "/Maxim_Rozhanskiy_14.04.22/static/css/main.f14b4832.css.map",
+    "main.357523aa.js.map": "/Maxim_Rozhanskiy_14.04.22/static/js/main.357523aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14b4832.css",
+    "static/js/main.357523aa.js"
+  ]
+}
