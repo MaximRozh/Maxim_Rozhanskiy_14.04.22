@@ -1,0 +1,19 @@
+.wrapper {
+    max-width: 1440px;
+    height: auto;
+    margin: 0 auto;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    gap: 5%;
+    width: 100%;
+    padding: 20px;
+}
+.gallery {
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    padding: 20px;
+}
